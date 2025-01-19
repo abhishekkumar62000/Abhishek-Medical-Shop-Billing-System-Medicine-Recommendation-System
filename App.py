@@ -1,7 +1,6 @@
 import streamlit as st # type: ignore
 import pandas as pd # type: ignore
 
-# Medicine menu dictionary
 medicines_menu = {
     "Paracetamol": 15,
     "Ibuprofen 400mg": 20,
